@@ -1,3 +1,6 @@
 [submodule "Padrao-MVC"]
 	path = Padrao-MVC
 	url = https://github.com/cariolano-rcs/Padrao-MVC.git
+[submodule "Padrao-Camadas"]
+	path = Padrao-Camadas
+	url = https://github.com/cariolano-rcs/Padrao-Camadas.git
