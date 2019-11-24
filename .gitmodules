@@ -1,0 +1,3 @@
+[submodule "Padrao-MVC"]
+	path = Padrao-MVC
+	url = https://github.com/cariolano-rcs/Padrao-MVC.git
