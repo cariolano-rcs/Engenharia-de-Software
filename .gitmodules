@@ -4,3 +4,9 @@
 [submodule "Padrao-Camadas"]
 	path = Padrao-Camadas
 	url = https://github.com/cariolano-rcs/Padrao-Camadas.git
+[submodule "Padrao-Dominio"]
+	path = Padrao-Dominio
+	url = https://github.com/cariolano-rcs/Padrao-Dominio.git
+[submodule "Padrao-TransitionScripts"]
+	path = Padrao-TransitionScripts
+	url = https://github.com/cariolano-rcs/Padrao-TransitionScripts.git
