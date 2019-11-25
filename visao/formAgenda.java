@@ -1,3 +1,5 @@
+package visao;
+
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
@@ -5,7 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-public class FormAgend extends JFrame {
+public class formAgenda extends JFrame {
 
 	private JPanel contentPane;
 
@@ -16,7 +18,7 @@ public class FormAgend extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					FormAgend frame = new FormAgend();
+					formAgenda frame = new formAgenda();
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
@@ -28,7 +30,7 @@ public class FormAgend extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public FormAgend() {
+	public formAgenda() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
